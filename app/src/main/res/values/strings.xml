@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MavelApp</string>
+
+    <!-- COMMON -->
+    <string name="alert_dialog_title">Title</string>
+    <!-- COMMON -->
+
+</resources>
